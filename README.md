@@ -21,7 +21,7 @@ print("Hello World.")
 I am also working on a Bachelor in IT.[^2]
 
 
-Come visit my [Django Site](https://alexnateshel.pythonanywhere.com.)
+Come visit my [Django Site](https://alexnateshel.pythonanywhere.com/)
 <!-- I will also be adding more websites as I create them -->
 > [!IMPORTANT]
 > I work to contantly improve my Django Site, so if you visit my site and it isn't operational, it means I am working on, please try again in a little while.
